@@ -1,0 +1,85 @@
+{
+    "planes internet": [
+        {
+            "tipo": "familiar",
+            "capacidad": "5g 250mb/s",
+            "precio mes": 250000
+        },
+        {
+            "tipo": "fibre optica",
+            "capacidad": "5g 100mb/s",
+            "precio mes": " 175000"
+        },
+        {
+            "tipo": "nueva fibra",
+            "capacidad": "4g 90 mb/s",
+            "precio mes": 11000
+        }
+    ],
+    "planes datos": [
+        {
+            "Tipo": " prepago",
+            "mensual": 60000,
+            "capacidad mes": "25GB",
+            "semanal": 17.9,
+            "capacidad semana": "4GB"
+        },
+        {
+            "Tipo": " pospago",
+            "mensual": 40000,
+            "capacidad mes": "16GB",
+            "semanal": 12.9,
+            "capacidad semana": "eGB"
+        }
+    ],
+    "productos": [
+        {
+            "telefonos": [
+                {
+                    "marca": "xiaomi",
+                    "modelo": "poco x6 pro",
+                    "almacenamiento": "128 GB ",
+                    "camara trasera principal": "108mpx",
+                    "bateria": "5000 mah",
+                    "precio": 1800000
+                },
+                {
+                    "marca": "iphone",
+                    "modelo": "13 pro max",
+                    "almacenamiento": "128 GB",
+                    "camara trasera principal": "108mpx",
+                    "bateria": "5000 mah",
+                    "precio": 3600000
+                },
+                {
+                    "marca": "samsung",
+                    "modelo": "s24 ultra",
+                    "almacenamiento": "128GB",
+                    "camara trasera principal": "105mpx",
+                    "bateria": "5004mah ",
+                    "precio": 4789000
+                }
+            ]
+        }
+    ],
+    "televisores": [
+        {
+            "marca": "samsung",
+            "modelo": "crystal UHD 4K CU8200",
+            "pulgadas": "50",
+            "precio": 2445900
+        },
+        {
+            "marca": "Kalley",
+            "modelo": "qled gtv50uhdqv2",
+            "pulgadas": "50",
+            "precio": 1989900
+        },
+        {
+            "marca": "kalley",
+            "modelo": "ghsdkadgkahda",
+            "pulgadas": "46",
+            "precio": 1250000
+        }
+    ]
+}

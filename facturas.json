@@ -1,0 +1,25 @@
+{
+  "factura":[{
+        
+    "numero factura": 1,
+    "documento": 87897,
+    "nombre cliente": "juan",
+    "productos": [{
+
+        "producto":" ",
+        "cantidad": 0 ,
+        "precio": 0.0
+
+    }],
+    
+    "servicios":[{
+        
+        "producto":" ",
+        "cantidad": 0 ,
+        "precio": 0.0
+   
+    }]
+        
+}]
+
+}

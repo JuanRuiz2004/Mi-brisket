@@ -1,0 +1,18 @@
+{
+    "usuario": [
+        {
+            "nombre": "juan",
+            "documento": 2354,
+            "telefono": 5465524,
+            "direccion": " bogota",
+            "correro": "juandsdwd@gmail.com"
+        },
+        {
+            "nombre": "alfredo",
+            "documento": 12345,
+            "telefono": 5465524,
+            "direccion": " bogota",
+            "correro": "djwd@gmail.com"
+        }
+    ]
+}
