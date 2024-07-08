@@ -4,14 +4,14 @@
 Primer proyecto de python en el cual deberiamos de obtener las siguientes caracteristicas para el correcto funcionamiento del programa
 ---
 ## Tabla de contenido
- - [Funcionalidades Administrador](###FuncionalidadesAdministrador)
- - [Funcionalidades usuarios](###Funcionalidadesusuario)
- - [Como instalarlo](##Comoinstalarlo)
- - [Como Usarlo](##Comousarlo)
- - [Construido con](##Construidocon)
+ - [Funcionalidades Administrador](###Administrador)
+ - [Funcionalidades usuarios](###Usuario)
+ - [Como instalarlo](##Instalacion)
+ - [Como Usarlo](##Uso)
+ - [Construido con](##Herramienta)
  - [Autor](##Autor)
-
-### Funcionalidades Administrador
+   
+### Administrador
 
 ***Registro y Gestión de Usuarios**:*
 
@@ -41,7 +41,7 @@ Primer proyecto de python en el cual deberiamos de obtener las siguientes caract
 
 - Numero de productos vendidos por la empresa, a que cliente,fecha y hora de la venta y que tipo de cliente era.
 
-### Funcionalidades usuario
+### Usuario
 
 ***Ver Planes y servicios**:*
 
@@ -59,20 +59,20 @@ Primer proyecto de python en el cual deberiamos de obtener las siguientes caract
 
 
 
-## Como instalarlo:
+## instalacion:
  - Lo primero que se debe de hacer es descargar el archivo.zip.
  - luego lo que debemos de hacer es descomprimirlo para tener la carpeta completa con los archivos.
  - Ultimo lo abrimos con nuestro visual estudio code.
-## Como usarlo:
+## Uso:
   - luego de terminar con la instalacion lo que debemos de hacer es:
   - abrir el archivo con visual estudio code.
   - luego dentro de todos los archivos nos vamos a uno especifico que tiene como nombre "main.py"
   - en este se desplegara un menu con todas las funcionalidades ya sea como administrador o como usuario
 
-## CONSTRUIDO CON:
+## Herramienta:
 - Python :3
 
-## Autores:
+## Autor:
 * **Juan Ruiz** - *Todo el trabajo* - [Juanruiz2004](https://github.com/JuanRuiz2004)
     
 
