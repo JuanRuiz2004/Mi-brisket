@@ -4,12 +4,12 @@
 Primer proyecto de python en el cual deberiamos de obtener las siguientes caracteristicas para el correcto funcionamiento del programa
 ---
 ## Tabla de contenido
- - [Funcionalidades Administrador](#FuncionalidadesAdministrador)
- - [Funcionalidades usuarios](#Funcionalidadesusuario)
- - [Como instalarlo](#Comoinstalarlo)
- - [Como Usarlo](#Comousarlo)
- - [Construido con](#Construidocon)
- - [Autor](#Autor)
+ - [Funcionalidades Administrador](###FuncionalidadesAdministrador)
+ - [Funcionalidades usuarios](###Funcionalidadesusuario)
+ - [Como instalarlo](##Comoinstalarlo)
+ - [Como Usarlo](##Comousarlo)
+ - [Construido con](##Construidocon)
+ - [Autor](##Autor)
 
 ### Funcionalidades Administrador
 
